@@ -1,0 +1,77 @@
+Objets et armes
+
+Bibelots et bidules:
+
+img/stuff1
+
+
+Un journal
+Un carnet de travail
+Une lettre officielle lui conférent le statut d'Ombre de Shoumei (en gros, un laisser-passer diplomatique)
+Un carnet pour ses poèmes
+Un carnet d'adresses
+Une topette
+Des cigarettes
+Un briquet à essence magique
+Un étui à lunettes
+Une paire de lunettes de vue
+Une paire de lunettes de soleil
+Une boussole
+Une ombrepierre (souvenir de sa naissance)
+De l'encens
+Du tabac à chiquer
+
+img/stuff2
+
+Une canne à système (fleuret) dite "La Diabolique" avec un pommeau en forme d'hibou
+Une rapière
+"Senec", un poignard spécial (à faire valider en boutique, je fais comme s'il ne le possédait pas pour le moment)
+
+img/canif1
+
+Un petite dague en ombrepierre "offerte" par la Régente il y a des millénaires. Evidemment, celle-ci est maudite. D'apparence normale, certes, mais pour activer les propriétés magiques du poignard, il faut à chaque fois passer un contrat rituel avec. "Senec" a besoin d'une preuve de la souffrance de son utilisateur. Cela explique en grande partie les très  nombreuses plaies sur le corps d'Arezki. Pernicieuse, même après leur combat, Gunnhildr continue à infliger des dommages à l'Ombre.
+
+img/canif2
+Un couteau de combat
+Un couteau à lancer
+
+
+Joaillerie:
+
+img/stuff3
+
+Main droite :
+
+Une chevalière présentant une pierre ovale d'adamantine qu'il porte à l'index
+Une bague jonc sertie d'un petit caillou ovale d'orichalque rose qu'il porte à l'auriculaire.
+Une chevalière présentant un ovale d'ombrepierre qu'il porte à l'annulaire.
+
+Main gauche :
+Une chevalière présentant une pierre ovale d'aether qu'il porte à l'index.
+
+
+Pouvoirs
+
+Ombremorts – 4
+Ombremorts est une technique de résurrection unique à Arezki. Ombremorts permet à son utilisateur de faire revivre une créature magique en tant qu’ombre. 
+Précisions : Ombremorts ne peut être utilisé contre une cible qui de son vivant était beaucoup plus forte que l’extracteur.
+
+Ombre – 3
+Si Arezki a perdu, à cause de son affrontement avec Gunnhildr quelques millénaires avant, sa maîtrise parfaite de la magie élémentaire de l'Ombre, il n'en reste pas moins un expert en la matière. Son seul but est de recouvrer sa puissance d'antan.
+
+Fusion élémentaire – 1
+Arezki est l'ombre. Littéralement.
+
+Vol – 1
+Arezki est capable de voler mais préfère le faire sous sa forme animale.
+
+Sombre Aura – Cosmétique
+Arezki possède une aura lui enlaçant la peau dont le volume s'intensifie selon son humeur. En gros, sa sombre aura sert d'indicateur de dangerosité pour l'interlocuteur car elle révèle bien souvent les intentions du démon.
+
+Chair de Kokot – Cosmétique
+Le froid emboîte les pas d'Arezki comme si Gunnhildr lui collait à la peau. Lorsque Arezki s'approche de vous ou bien pénètre dans une pièce, vous ressentez comme un vif courant d'air parcourant l'intérieur de votre corps. Les piètres humains claquent des dents, ont des sueurs froides, ont besoin de se réchauffer tandis que les personnes et personnages un peu plus puissants ne ressentent qu'une légère chair de poule(kokot).
+
+
+
+Immunité : Air
+Faiblesse : Lumière
